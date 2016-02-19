@@ -1,0 +1,55 @@
+.body {
+	background-color: #FEFEFE;
+}
+
+.navbar-nav {
+	float: right;
+	font-size: 10px;
+}
+
+.control-container {
+	background-color: #474949;
+}
+
+.power-container {
+	width: 100%;
+	text-align: center;
+}
+
+.power-label, .power-action {
+	width: 50%;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.rocket-container {
+	height: 400px;
+	background-color: #ECF0F1;
+	border-radius: 5px;
+}
+
+.rocket {
+	width: 72px;
+	height: 72px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: 0 auto;
+}
+
+.rocket-style-25 {
+	bottom: 30px;
+}
+
+.rocket-style-50 {
+	bottom: 120px;
+}
+
+.rocket-style-75 {
+	bottom: 180px;
+}
+
+.rocket-style-100 {
+	bottom: 324px;
+}
